@@ -114,6 +114,7 @@ var Configuration = map[string]PathConfig{
 	"tr":      Allowed,
 	"unzip":   Allowed,
 	"zip":     Allowed,
+	"fsck.erofs": Allowed,
 	"arm-linux-androidkernel-as": Allowed,
 	"arm-linux-androidkernel-ld": Allowed,
 
